@@ -13,9 +13,9 @@ tagline: Brainhack 2013 Prisma Data Challange
 author :
   name : Brainhack2013
   email : cameron.craddock@gmail.com
-  github : none
-  twitter : none
-  feedburner : none
+  github : false
+  twitter : false
+  feedburner : false
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -54,7 +54,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  BASE_PATH : http://brainhack2013.github.io/Prisma_data_challenge
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -38,3 +39,9 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+Prisma_data_challenge
+=====================
+
+This repository contains an 15 min DSI data set acquired with 80 mT/m gradients (SIEMENS MAGNETOM Prisma), b = 5k, 5pt q-space (half), 64 channel head matrix and multi-band 3 excitation.  
+>>>>>>> 0983c67b5e8f94340da881ee28022f034a155c80
